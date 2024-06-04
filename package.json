@@ -1,0 +1,22 @@
+{
+  "name": "entrega-javascript",
+  "version": "0.0.1",
+  "description": "Repositório simples para entrega da 1 semana de capacitação de Javascript da byron.solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/projetosbyronsolutions/entrega-js.git"
+  },
+  "author": "Diego Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/projetosbyronsolutions/entrega-js/issues"
+  },
+  "homepage": "https://github.com/projetosbyronsolutions/entrega-js#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
