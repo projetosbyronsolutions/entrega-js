@@ -3,7 +3,7 @@
 Olá futuro byroniano, tudo certo? Esperamos que tenha gostado desta primeira
 introdução a formosa linguagem que é o Javascript. Como a base de todo bom
 desenvolvedor é o seu raciocínio, trouxemos alguns probleminhas para você exercita-lo, 
-além de se acostumar a sintaxe da linguagem. Boa sorte!  
+além de se acostumar com a sintaxe da linguagem. Boa sorte!  
 
 ## Instruções
 
@@ -35,7 +35,7 @@ No final de seu arquivo.
 
 ## Rodando os testes
 
-Para você verificar se seu código, basta:
+Para você verificar se seu código está correto, basta:
 
 1. Ter instalado as dependências com: 
 ```
@@ -49,14 +49,14 @@ npm run test
 
 ## Submetendo suas soluções
 
-Agora que você resolveu todos os problemas e validou rodando os testes localmente, você
+Agora que você resolveu todos os problemas e os validou rodando os testes localmente, você
 está pronto para realizar o Pull Request (PR)! Notas:
 
 1. Todo PR deve possuir no mínimo um revisor (um membro de DPJ ou a própria conta da diretoria);
 2. O código só será aceito se todos os testes passarem;
 
 
-E pronto! Você acaba de dar seu primeiro ~~de milhares~~ passo para se tornar um _js-wizard_
+E pronto! Você acaba de dar seu primeiro passo ~~de milhares~~ para se tornar um _js-wizard_
 
 
 ### Disclaimer 
@@ -65,11 +65,11 @@ Obviamente tu pode usar o chatGPT ou pesquisar na internet a solução para os p
 e se você realmente ficar travado em algum deles eu até recomendo fazer isso. Com uma única
 condição: **tu vai ler, reler, e tentar fazer de novo sem olhar pra resposta**; por incrível
 que pareça esse é um bom jeito de se acostumar com _patterns_ e soluções nas quais não está
-acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por quê fazer isso?"
+acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por quê aprende na raça?"
 
-Bem, exitem inúmeras razões, daria blog post inteiro pra isso, mas a mais direta é: Se você for
-rapitado por terroristas, no meio do deserto, e eles te deram a condição de só te soltarem se você 
+Bem, exitem inúmeras razões, daria um blog post inteiro pra isso, mas a mais direta é: Se você for
+rapitado por terroristas, no meio do deserto, e eles te derem a condição de só te soltarem se você 
 escrever uma função de uma linha em JS que devolve quantos valores  _falsy_ uma lista 
-possui (pequena variação do problema 2), você vai querer ter aprendido de verdade a programar.
+possui (pequena variação do problema 2), você vai querer ter aprendido a programar sem rodinhas.
 
 Não digam que não avisei :)
