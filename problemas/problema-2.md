@@ -3,7 +3,7 @@
 Aqueceu? Ótimo, essa agora vai ser pra testar seu conhecimento
 de conceitos de JS. 
 
-Dada uma lista contento múltiplos tipos, ex: [2, 'asdf', [], true]; retornar quantos
+Dada uma lista contendo múltiplos tipos, ex: [2, 'asdf', [], true]; retornar quantos
 valores _truthy_ existem. 
 
 **Interface**
