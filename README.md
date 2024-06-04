@@ -68,7 +68,7 @@ que pareça esse é um bom jeito de se acostumar com _patterns_ e soluções nas
 acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por quê aprende na raça?"
 
 Bem, exitem inúmeras razões, daria um blog post inteiro pra isso, mas a mais direta é: Se você for
-rapitado por terroristas, no meio do deserto, e eles te derem a condição de só te soltarem se você 
+raptado por terroristas, no meio do deserto, e eles te derem a condição de só te soltarem se você 
 escrever uma função de uma linha em JS que devolve quantos valores  _falsy_ uma lista 
 possui (pequena variação do problema 2), você vai querer ter aprendido a programar sem rodinhas.
 
