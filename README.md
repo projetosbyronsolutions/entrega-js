@@ -58,7 +58,7 @@ acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por 
 
 Bem, exitem inúmeras razões, daria blog post inteiro pra isso, mas a mais direta é: Se você for
 rapitado por terroristas, no meio do deserto, e eles te deram a condição de só te soltarem se você 
-escrever uma função de uma linha em JS que devolve quantos valores falsos uma lista 
+escrever uma função de uma linha em JS que devolve quantos valores  _falsy_ uma lista 
 possui (pequena variação do problema 2), você vai querer ter aprendido de verdade a programar.
 
 Não digam que não avisei :)
