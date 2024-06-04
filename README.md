@@ -47,10 +47,21 @@ npm i
 npm run test
 ```
 
+## Submetendo suas soluções
+
+Agora que você resolveu todos os problemas e validou rodando os testes localmente, você
+está pronto para realizar o Pull Request (PR)! Notas:
+
+1. Todo PR deve possuir no mínimo um revisor (um membro de DPJ ou a própria conta da diretoria);
+2. O código só será aceito se todos os testes passarem;
+
+
 E pronto! Você acaba de dar seu primeiro ~~de milhares~~ passo para se tornar um _js-wizard_
 
 
-PS: Obviamente tu pode usar o chatGPT ou pesquisar na internet a solução para os problemas,
+### Disclaimer 
+
+Obviamente tu pode usar o chatGPT ou pesquisar na internet a solução para os problemas,
 e se você realmente ficar travado em algum deles eu até recomendo fazer isso. Com uma única
 condição: **tu vai ler, reler, e tentar fazer de novo sem olhar pra resposta**; por incrível
 que pareça esse é um bom jeito de se acostumar com _patterns_ e soluções nas quais não está
