@@ -1,0 +1,22 @@
+name: 1º Entrega JS
+
+on:
+  push:
+    branches: [ "main", "develop" ]
+  pull_request:
+    branches: [ "main", "develop" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Testes unitários
+      uses: actions/setup-node@v3
+      with:
+        node-version: 21.5.0
+        cache: 'npm'
+    - run: npm ci
+    - run: npm run test
