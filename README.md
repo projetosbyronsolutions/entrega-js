@@ -65,11 +65,11 @@ Obviamente tu pode usar o chatGPT ou pesquisar na internet a solução para os p
 e se você realmente ficar travado em algum deles eu até recomendo fazer isso. Com uma única
 condição: **tu vai ler, reler, e tentar fazer de novo sem olhar pra resposta**; por incrível
 que pareça esse é um bom jeito de se acostumar com _patterns_ e soluções nas quais não está
-acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por quê aprende na raça?"
+acostumado. Porém tu pode me perguntar: "Mas se posso usar esses recursos, por quê aprender na raça?"
 
-Bem, exitem inúmeras razões, daria um blog post inteiro pra isso, mas a mais direta é: Se você for
+Bem, existem inúmeras razões, daria um blog post inteiro para isso, mas a mais direta é: Se você for
 raptado por terroristas, no meio do deserto, e eles te derem a condição de só te soltarem se você 
 escrever uma função de uma linha em JS que devolve quantos valores  _falsy_ uma lista 
-possui (pequena variação do problema 2), você vai querer ter aprendido a programar sem rodinhas.
+possui (uma pequena variação do problema 2), você vai querer ter aprendido a programar sem rodinhas.
 
 Não digam que não avisei :)
