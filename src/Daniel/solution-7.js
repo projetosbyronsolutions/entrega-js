@@ -1,4 +1,4 @@
-function DivideXY(numero1, numero2) {
+function divideXY(numero1, numero2) {
     if (numero2 === 0) {
         return "divisao impossivel"
     }else{
@@ -9,4 +9,4 @@ function DivideXY(numero1, numero2) {
     }
 
 }
-module.exports=DivideXY;
+module.exports=divideXY;

@@ -11,8 +11,10 @@ function calcularRaizes(A, B, C){
 
        let R1=r1.toFixed(5)
        let R2=r2.toFixed(5)
+       let resultado=[parseFloat(R1),parseFloat(R2)]
 
-        return [R1,R2]
+            
+        return resultado
     }
    
 }

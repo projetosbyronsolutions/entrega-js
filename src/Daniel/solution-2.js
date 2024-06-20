@@ -1,5 +1,5 @@
 
-function Truthy(lista){return lista.filter(Boolean).length}
+function truthy(lista){return lista.filter(Boolean).length}
 
-console.log(Truthy)
-module.exports =Truthy
+console.log(truthy)
+module.exports =truthy

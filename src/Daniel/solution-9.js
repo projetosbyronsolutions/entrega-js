@@ -16,4 +16,4 @@ function gerarFibonacci(N) {
 }
 
 
-module.exports(gerarFibonacci)
+module.exports=gerarFibonacci
