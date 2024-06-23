@@ -1,5 +1,5 @@
-function acharFatorial(lista){
-    if(lista == 0 || lista == 1){
+function acharFatorial(N){
+    if(N == 0 || N == 1){
         let fat = 1
         
         return fat
@@ -7,7 +7,7 @@ function acharFatorial(lista){
     else{
         let fat = 1
         
-        for(let i = lista; i > 1; i--){
+        for(let i = N; i > 1; i--){
             fat = fat * i
         }
 
