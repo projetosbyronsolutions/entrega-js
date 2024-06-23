@@ -9,3 +9,5 @@ function qtdTruthy(lista){
 list = [57, NaN, "Hello World", 0, [], "", undefined]
 
 console.log(qtdTruthy(list))
+
+module.exports = qtdTruthy
