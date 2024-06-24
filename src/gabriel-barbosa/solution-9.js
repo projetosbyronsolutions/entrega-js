@@ -24,3 +24,5 @@ function acharMaior(N){
 }
 
 console.log(acharMaior(10))
+
+module.exports = acharMaior
