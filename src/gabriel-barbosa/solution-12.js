@@ -11,3 +11,5 @@ function separarCPF(cpf){
 }
 
 console.log(separarCPF("123.456.789-10"))
+
+module.exports = separarCPF
