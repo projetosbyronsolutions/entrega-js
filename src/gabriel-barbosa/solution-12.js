@@ -1,9 +1,9 @@
 function separarCPF(cpf){
 
-    let cpf1 = cpf[0] + cpf[1] + cpf[2]
-    let cpf2 = cpf[4] + cpf[5] + cpf[6]
-    let cpf3 = cpf[8] + cpf[9] + cpf[10]
-    let cpf4 = cpf[12] + cpf[13]
+    let cpf1 = String(cpf[0])+ String(cpf[1]) + String(cpf[2])
+    let cpf2 = String(cpf[4])+ String(cpf[5]) + String(cpf[6])
+    let cpf3 = String(cpf[8])+ String(cpf[9]) + String(cpf[10])
+    let cpf4 = String(cpf[12]) + String(cpf[13])
 
     let arrayCPF = [cpf1, cpf2, cpf3, cpf4]
 

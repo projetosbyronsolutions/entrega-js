@@ -3,7 +3,7 @@ function formarTriangulo(n1,n2,n3){
         return "sim"
     }
     else{
-        return "nao"
+        return "não"
     }
 }
 

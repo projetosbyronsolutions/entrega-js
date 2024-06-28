@@ -12,7 +12,7 @@ function calcularRaizes(A, B, C){
         let r2 = (-B + Math.sqrt(delta)) / (2 * A)
         let R2 = r2.toFixed(5)
 
-        let raizes = [R1, R2]
+        let raizes = [R2, R1]
 
         return raizes
     }
