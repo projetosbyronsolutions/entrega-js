@@ -7,10 +7,10 @@ function calcularRaizes(A, B, C){
 
     if(delta >= 0){
         let r1 = (-B - Math.sqrt(delta)) / (2 * A)
-        let R1 = r1.toFixed(5)
+        let R1 = parseFloat(r1.toFixed(5))
 
         let r2 = (-B + Math.sqrt(delta)) / (2 * A)
-        let R2 = r2.toFixed(5)
+        let R2 = parseFloat(r2.toFixed(5))
 
         let raizes = [R2, R1]
 
