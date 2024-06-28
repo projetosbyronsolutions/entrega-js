@@ -14,3 +14,4 @@ qtdTruthy(lista)
 
 > Mini-challenge
   você consegue fazer em uma única linha?
+  
