@@ -1,5 +1,5 @@
 function DivideXY (numero1,numero2){
-    if(y==0)
+    if(numero2==0)
     {
         return "divisao impossivel";
     }

@@ -6,7 +6,7 @@ function acharMaior (lista){
     
     if (lista === 0)
     {
-        return mango [0];
+        return [0];
     }
     if (lista === 1)
     {

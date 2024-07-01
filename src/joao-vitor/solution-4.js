@@ -13,7 +13,7 @@ function calcularRaizes (A,B,C){
         x2 = (-B - Math.sqrt(delta)) / (2*A);
     }
 
-    return [x1.toFixed(5), x2.toFixed(5)];
+    return [parseFloat(x1.toFixed(5)), parseFloat(x2.toFixed(5))];
 
 }
 
